@@ -1,0 +1,15 @@
+{
+  "name": "language-xmodmap",
+  "version": "0.0.0",
+  "description": "Xmodmap grammar package for Atom",
+  "keywords": [
+    "language",
+    "grammar",
+    "xmodmap"
+  ],
+  "repository": "https://github.com/yudai-nkt/language-xmodmap",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
